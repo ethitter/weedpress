@@ -13,6 +13,9 @@
 include "inc/dispensary.php";
 
 // Register WeedPress CPTs
+include "inc/post-type-icons/post-type-icons.php";
+
+// Register WeedPress CPTs
 include "inc/custom-post-types.php";
 
 // Handles Custom Fields for WeedPress CPTs
