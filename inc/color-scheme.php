@@ -1,4 +1,7 @@
 <?php
+
+include "admin-color-schemes/admin-color-schemes.php";
+
 add_action( 'admin_init', function() {
 
 	// remove the color scheme picker
