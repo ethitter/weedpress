@@ -1,9 +1,9 @@
 <?php
 /**
  * Plugin Name: WeedPress
- * Plugin URI: http://weedpress.co
- * Description: The features that turn WordPress into WeedPress
- * Version: 1
+ * Plugin URI: https://github.com/alternatekev/weedpress
+ * Description: Teaching WordPress about marijuana 
+ * Version: 0.1
  * Author: Kevin Conboy
  * Author URI: weedpress.co
  * License: GPL3
